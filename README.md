@@ -5,8 +5,8 @@ First project for CMP_SC 4320. We will plan a trip that will take Mizzou's Club 
 
 ### Members of the Team
   1. Dalton Burge
-  2. Christian Cmehil-Warn
-  3. Jonah Zukosky
+  2. Christian Cmehil-Warn (Scrum Master)
+  3. Jonah Zukosky (Product Owner)
 ### Who is Going on the Trip?
   The Mizzou Club Water Polo Team. Approximately 10-15 people.
 ### The Destination
