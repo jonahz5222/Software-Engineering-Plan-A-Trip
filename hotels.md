@@ -14,7 +14,7 @@ Since the YMCA is in downtown Des Moines, hotel rooms in the area are not curren
 
 * Motel 6 Des Moines South 
 	* $56/night per room
-	* 11 minute route ![](Hotel Route.png)
+	* 11 minute route ![Hotel Route](Hotel Route.png)
 	* Can afford 3 rooms, almost 4
 
 
