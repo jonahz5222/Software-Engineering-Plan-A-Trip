@@ -12,6 +12,8 @@ First project for CMP_SC 4320. We will plan a trip that will take Mizzou's Club 
   [Roster](roster.md)
 ### The Destination
   Des Moines, Iowa.
+  [Route to Des Moines](route.md)
+  [Transportation](transportation.md)
 ### The Budget
   $700
 ### The Length
