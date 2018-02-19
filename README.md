@@ -15,7 +15,7 @@ First project for CMP_SC 4320. We will plan a trip that will take Mizzou's Club 
   [Route to Des Moines](route.md)  
   [Transportation](transportation.md)
 ### The Budget
-  $700
+  $900
   $459.09 for Vehicles
 ### The Length
   April 13th, 2018 at 4:30 pm - April 15th 2018 at 5:00 pm
