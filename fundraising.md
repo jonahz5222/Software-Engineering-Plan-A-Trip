@@ -17,5 +17,5 @@ Most of the income will be players and their friends therefore Moe's is a better
 
 The best option would be a Wednesday in March at Moe's
 
-[Back to hotels.md](hotels.md)
+[Back to hotels.md](hotels.md)  
 [Back to README.md](README.md)
