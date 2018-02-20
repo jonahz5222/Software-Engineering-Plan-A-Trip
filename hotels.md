@@ -21,6 +21,7 @@ Since the YMCA is in downtown Des Moines, hotel rooms in the area are not curren
 
 * Make More Money
 	* No other hotels within a reasonable range are cheaper than this one
+	* [Fundraising](fundraising.md)  
 
 
 [Back to README.md](README.md)
